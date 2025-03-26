@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "email": "ran@gmail.com",
+      "password": "123456",
+      "profileImage": "/uploads/1742907820371.jpg"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1742926754308,
+      "title": "blog1",
+      "description": "wow",
+      "image": "/uploads/1742930566011.png"
+    },
+    {
+      "id": 1742962574187,
+      "title": "test2",
+      "description": "gkgjhgl",
+      "image": "/uploads/1742962574184.jpg"
+    }
+  ]
+}
